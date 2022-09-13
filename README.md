@@ -98,9 +98,7 @@ Next, add each of the TA’s accounts as collaborators as well - this will allow
 
 - 327qabot
 - leoabot  
-- mwrana327
-- MatthewIsfeld
-- Lia327
+- TBA
 
 Congratulations, you’ve finished setting up your repo and now it’s time to start working! If you are unable to add more than 3 collaborators, make sure that you have added in your educational license in the 3 step.
 
