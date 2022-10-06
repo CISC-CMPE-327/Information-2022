@@ -100,7 +100,7 @@ All the assignments, starting from this point, will follow these rules:
 
 Additional rules for this assignment:
 - Your main branch's badge has to be build-passing at the time of assignment submission. 
-- The demo video shows that all the frontend pages are runnable.
+- The demo video shows that all the frontend pages are runnable (preferably a YouTube link).
 
 
 Violation of any of the above rules (except the one about emoji) will result in a grade penalty.
