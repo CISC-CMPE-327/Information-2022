@@ -15,8 +15,7 @@ The demo prototype should contain:
 - user profile update page
 - user home page (with links to the pages below)
   - listing creation page
-  - listing
-  -  update page
+  - listing update page
 
 The customer does not have additional requirements at the moment.
 Detailed specifications with constraints will be provided in the next sprint after the customer tried out the prototype. 
