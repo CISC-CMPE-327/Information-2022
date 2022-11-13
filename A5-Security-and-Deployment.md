@@ -17,9 +17,9 @@ In this sprint, we have two main tasks:
 
 Now your team has chosen the frontend option. For security testing, we will conduct sql injection testing:
 
-- [SQL Injection Backend Testing](A5_payload.md) (tested with pytest test cases - use backend unit testing)
+- [SQL Injection Backend Testing](A5-Payload.md) (tested with pytest test cases - use backend unit testing)
 
-For deployment, following [this instruction](a5_docker.md) to setup docker & docker compose.
+For deployment, following [this instruction](A5-Docker.md) to setup docker & docker compose.
 
 ### ✈️ Step 2 - Planning
 
